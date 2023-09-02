@@ -66,7 +66,7 @@ class _NotificationScreenState extends State<NotificationScreen> {
                     "Notifications",
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
-                      fontSize: 36,
+                      fontSize: 37,
                     ),
                   ),
                 ),
